@@ -2,6 +2,8 @@
 
 An async wrapper to the rsync command line utility for Node.js.
 
+Modified to fix compatibility with our build environment.
+
 ### Prerequisites
 
 A reasonably modern version of rsync (>=2.6.9) in your PATH.
